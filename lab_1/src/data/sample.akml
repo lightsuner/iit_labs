@@ -1,0 +1,17 @@
+#block
+    #block
+        #head First block head#
+        #paragraph Some text in paragraph #bold bold-text bold# and #italic italic-text italic# paragraph#
+        one line #newline new line #newline
+        #link TuT website link | https://tut.by link#
+    block#
+    #block
+        #head Second block head#
+        #list
+            #item List item first item#
+            #item List item #underscore underscored underscore# item#
+            #item List item #strike striked strike# item#
+            #item picture of bird #picture https://img.icons8.com/carbon-copy/2x/bird.png picture# item#
+        list#
+    block#
+block#
